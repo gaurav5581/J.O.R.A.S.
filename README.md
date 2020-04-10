@@ -1,2 +1,0 @@
-# J.O.R.A.S.
-I Gaurav Singh Bhati and my team member Dayal Rathore propose a project J.O.R.A.S. aka Joint operation rapid analysis system, in which the heart of the project will be an embedded system constructed over an e-vehicle or robot. Due to unavailability of proper resources we have built a small prototype which can be used to deliver essentials to the corona warriors without intervention of any human in between to reduce the risk of anyone getting infected.
